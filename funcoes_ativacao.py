@@ -41,7 +41,6 @@ def reluFunction(soma):
 def linearFunction(soma):
     return soma
 
-
 # Softmax function retorna probabilidades em problemas com mais de duas classes
 # Recebe diversos valores, como se fosse um vetor
 # ex = exponencial
