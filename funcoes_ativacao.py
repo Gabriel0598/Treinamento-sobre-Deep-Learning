@@ -2,6 +2,8 @@
 # Estudo de redes neurais
 # Geração de algoritmos de IA
 
+# Aulas 14 e 15 - Funções de ativação
+
 import numpy as np
 # Biblioteca numpy é usada para realizar cálculos em arrays multidimensionais
 # np é nome dado para quando ela for chamada;
@@ -94,3 +96,5 @@ teste2 = linearFunction2(soma2)
 
 # Resposta correta seria 0.89 0.97 2.1 2.1
 # Possivelmente devido a erro de cálculo o retorno foi incorreto
+
+# Aula 17 - Base de dados breast cancer
